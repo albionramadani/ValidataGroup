@@ -1,0 +1,6 @@
+@ValidataGroup_HostAddress = http://localhost:5032
+
+GET {{ValidataGroup_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
